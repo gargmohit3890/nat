@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /assignment/v1
+
+
+springdoc:
+  api-docs:
+    path: /primenumbers-api
